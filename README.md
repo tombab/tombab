@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tombab
 - 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning SASS, React and React Native
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tbaronnet@gmail.com
 
