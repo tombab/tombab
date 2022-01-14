@@ -9,9 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tombab&show_icons=true&locale=en&layout=compact" alt="tombab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tombab&show_icons=true&locale=en" alt="tombab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tombab&" alt="tombab" /></p>
 
 <!---
 tombab/tombab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
